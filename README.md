@@ -2,7 +2,7 @@
 
 <br>
 <br>
-https://github.com/Ahmed-AL-Maghraby/Windows-Registry-Analysis-Cheat-Sheet/tree/main#system-info-and-accounts
+
 ## Table of Contents
 
 <br>

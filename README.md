@@ -1,4 +1,9 @@
-# Windows Registry Analysis Cheat Sheet
+# 
+<p align="center">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEXwiB8LIqZ60FSkefTmyJQX2F3AxFkwvG_msCNeNmCKGfviJzcmtwD7B_yjghwVfTIg7sCaEJqnpEi6ru8NBLfkl9OUS-vIlhsOn8aEH6_-2Y7sC9X4agc9BUQrcTJsvyhdCSWtLT_5nkcJe5clM8n2i9Fq3RxcKdTUnzH97YUhyiqhDzVlhcbr43adE/s400/kisspng-windows-registry-registry-cleaner-microsoft-window-5afceac1eb0b82.8470635215265246099628.png" alt="Registry" height="300" >
+</p>
+
+<h1 align="center">Windows Registry Analysis Cheat Sheet</h1>
 
 <br>
 <br>
